@@ -9,7 +9,6 @@ The analysis of prediction from time series is presented below. And from the giv
 
 ## Simple RNN (Multi Step Forecasting)
 ![Show](https://i.postimg.cc/vmWN9HrM/mutli.jpg,rawimage=True)
-*Test*
 
 ## Simple RNN (Single Step Forecasting)
 ![Show](https://i.postimg.cc/YSdMg3ft/single.jpg,rawimage=True)

@@ -8,7 +8,7 @@ The prediction results mentioned here is based on the multistep forecasting with
 The analysis of prediction from time series is presented below. And from the given examination it is evident that Autoregressive Model performance dominates the LSTM, GRU and Simple RNN in this case
 
 ## Simple RNN (Multi Step Forecasting)
-![Show](https://i.postimg.cc/vmWN9HrM/mutli.jpg,rawimage=True)*Test* 
+*Test* ![Show](https://i.postimg.cc/vmWN9HrM/mutli.jpg,rawimage=True)
 
 ## Simple RNN (Single Step Forecasting)
 ![Show](https://i.postimg.cc/YSdMg3ft/single.jpg,rawimage=True)
